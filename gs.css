@@ -39,5 +39,21 @@
         .tara{
         color: #B3B6E3;
         font-weight: bolder;
-        font-size: 25px;
+        font-size: 50px;
         }
+        table,th,td{
+            margin: 2px solid #ddd;
+            border-collapse: collapse;
+            width: 55%;
+        }
+        
+        th {
+            padding: 15px;
+            text-align: left;
+            background-color: #4C275C;
+            color: yellow;
+          }
+          td{
+            padding: 10px;
+          }
+          tr:nth-child(even){background-color: #f2f2f2;}
