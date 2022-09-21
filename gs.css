@@ -1,0 +1,43 @@
+.speech{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: black;
+    }
+    .name{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: black;
+    }
+    .direction{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    background-color: #ACDDDE;
+    color: black;
+    }
+    .direction:hover{
+        background-color: #5928E5;
+        color: #fff;
+    }
+    .cali{
+        color: #5928E5;
+        }
+        .phanter{
+        color: #A57C00;
+        }
+        .scappy{
+        color: darkgreen;
+        }
+        .chowdary{
+        color: purple;
+        }
+        .king{
+        color: orangered;
+        }
+        .nekking{
+        color: #583270;
+        }
+        .tara{
+        color: #B3B6E3;
+        font-weight: bolder;
+        font-size: 25px;
+        }
