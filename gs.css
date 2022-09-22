@@ -65,3 +65,21 @@
           .name{
             padding: 9px;
           }
+          ul {
+            background-color: #4C275C;
+            display: flex;
+            padding: 10px;
+    
+        }
+        li{
+            list-style: none;
+            padding-right: 25px;
+        }
+        li a{
+            
+            color: rgb(159, 60, 55);
+            text-decoration: none;
+        }
+        li a:hover{
+            color: rgb(101, 85, 85);
+        }
